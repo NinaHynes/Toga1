@@ -2,7 +2,7 @@ import toga
 
 
 def button_handler(widget):
-    print("hello")
+    print("hello, wow, you're looking good today")
 
 
 def build(app):
